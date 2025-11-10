@@ -18,7 +18,7 @@ PKGS=(
 
     # Multimedia, hardware acceleration and codecs
     ffmpeg
-    libva-intel-driver
+    libva-intel-media-driver
     @multimedia
 
     # Needed for homebrew, git and some more
